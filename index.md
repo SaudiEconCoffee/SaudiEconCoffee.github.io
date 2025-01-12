@@ -1,7 +1,13 @@
 ---
 layout: default
-title: "Welcome to the Saudi Econ Coffee Seminar Series"
+title: "Home"
 ---
+
+# Saudi Econ Coffee Seminar Series
+### Engaging Discussions on Economic Research in Saudi Arabia
+
+Welcome to our weekly forum where passionate economists meet to discuss, critique, 
+and refine ongoing research in a supportive environment.
 
 ## Philosophy & Aim
 
