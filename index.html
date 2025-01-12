@@ -18,35 +18,24 @@
     }
 
     /* Banner Section */
- .banner {
+
+.banner {
   width: 100%;
   height: 300px;
   background: url("baner.jpg") center center/cover no-repeat;
   position: relative; /* so we can position the overlay absolutely */
   margin-bottom: 2rem;
 }
-
-.banner::before {
-  content: "";
-  position: absolute;
-  top: 0; right: 0; bottom: 0; left: 0;
-  background: linear-gradient(
-    rgba(0, 0, 0, 0.3), 
-    rgba(0, 0, 0, 0.3)
-  );
-  /* Adjust the alpha to taste; 0.3 means 30% opacity black */
-}
-
 .banner h1 {
-  color: #fff;
-  position: relative; /* so it sits above the overlay */
-  z-index: 1;
-  font-size: 2rem;
+  color: #fff; 
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black behind the text */
+  padding: 1rem 2rem;                   /* Adds some spacing around the text */
+  border-radius: 8px;                   /* Rounds the corners of the background box */
+  font-size: 2rem;                      /* Adjust as needed */
   font-weight: 600;
-  /* If you want some spacing from top, use margin or padding on a wrapper. */
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.6); /* Soft shadow to boost visibility */
 }
-
-
+    
     /* Container for main content */
     .container {
       max-width: 900px;
