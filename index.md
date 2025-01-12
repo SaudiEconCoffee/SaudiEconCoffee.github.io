@@ -3,6 +3,14 @@ layout: default
 title: "Welcome to the Saudi Econ Coffee Seminar Series"
 ---
 
+## Philosophy & Aim
+
+The Saudi Econ Coffee Seminar Series is grounded in the belief that 
+open discussion and critical feedback enhance the quality and impact 
+of economic research. Our aim is to foster a supportive environment 
+where scholars can test, refine, and strengthen their ideas.
+
+
 # Upcoming Seminars
 
 We gather regularly to discuss cutting-edge economic research. Here’s a glance at our upcoming sessions:
