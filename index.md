@@ -1,7 +1,9 @@
 ---
-layout: default
-title: "Home"
+layout: home
+title: "Saudi Econ Coffee Seminar Series"
 ---
+
+
 
 # Saudi Econ Coffee Seminar Series
 ### Engaging Discussions on Economic Research in Saudi Arabia
