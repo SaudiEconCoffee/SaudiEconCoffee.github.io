@@ -1,3 +1,11 @@
 title: "Saudi Econ Coffee Seminar Series"
 description: "Engaging discussions on economic research in Saudi Arabia"
-theme: jekyll-theme-modernist
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: themefisher/airspace-jekyll
+
+# Optional: other config variables
+# url: "https://YourName.github.io"
+# baseurl: "/YourRepoName"  # if you're using a sub-URL
